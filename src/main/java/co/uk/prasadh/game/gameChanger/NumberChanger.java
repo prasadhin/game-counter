@@ -141,6 +141,5 @@ public class NumberChanger {
 
         //please check the Test class for detailed tests.
     }
-    
 }
 
